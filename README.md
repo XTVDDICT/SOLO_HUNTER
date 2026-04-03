@@ -1,4 +1,4 @@
-![38702b81-94ea-4e85-bb2f-34790bd850b1~1](https://github.com/user-attachments/assets/5801fc41-0659-4f57-b26d-ceaa737fd155)
+![38702b81-94ea-4e85-bb2f-34790bd850b1~1](https://github.com/user-attachments/assets/45b77483-9587-4b44-b574-299e469d2666)
 # SOLO_HUNTER **UPDATED** to -------->
 # SOLO_HUNTER v1.0.1
 
