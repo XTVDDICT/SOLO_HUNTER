@@ -17,7 +17,7 @@ ST7789 display support (in progress)
 Files
 SOLO_HUNTER_v1.0.2_merged.bin → prebuilt firmware (ILI9341 only)
 SOLO_HUNTER_v1_0_2.ino → source code
-🚀 Installation (Easiest Method – ESP Flasher Tool)
+🚀 Installation (ESP Flasher Tool – Recommended)
 
 You do NOT need Arduino.
 
@@ -36,16 +36,19 @@ After Flashing
 Power on the device
 Connect to WiFi network:
 SOLO_HUNTER_SETUP
-Open the setup portal
+Enter password:
+12345678
+Open the setup portal (should open automatically)
+If not, go to: 192.168.4.1
 Enter your WiFi credentials
 Enter your DGB wallet address
 Save settings
 
-The device will connect and start displaying your wallet data.
+The device will connect to your WiFi and begin displaying wallet data.
 
 No Wallet Config
 
-If no wallet is set, the screen will show the device IP address so you can open the settings page.
+If no wallet is set, the device will display its IP address so you can open the settings page and configure it.
 
 Settings Page
 
