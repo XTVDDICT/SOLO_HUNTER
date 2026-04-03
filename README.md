@@ -1,4 +1,4 @@
-![38702b81-94ea-4e85-bb2f-34790bd850b1~1](https://github.com/user-attachments/assets/45b77483-9587-4b44-b574-299e469d2666)
+![PXL_20260403_173620408~2](https://github.com/user-attachments/assets/fd775692-ddcc-4067-966c-988c059f310e)
 # SOLO_HUNTER **UPDATED** to -------->
 # SOLO_HUNTER v1.0.1
 
@@ -51,4 +51,6 @@ Once connected to WiFi, open the device IP address in your browser to:
 ## Notes
 - If USD value says `USD WAIT`, the wallet balance should still remain visible.
 - This project was built to be simple for non-coders to flash and use.
+
+
 
