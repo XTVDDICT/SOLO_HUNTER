@@ -59,7 +59,7 @@ Power on the device
 Connect to WiFi network:
 SOLO_HUNTER_SETUP
 Enter password:
-12345678
+solohunter
 Open setup page
 If it doesn’t open automatically, go to:
 http://192.168.4.1
