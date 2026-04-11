@@ -1,6 +1,6 @@
 ![SOLO GBP 1](https://github.com/user-attachments/assets/6e5b8d1c-57ed-449d-8617-ec5b694b2a79)
 ![SOLO CAD 1](https://github.com/user-attachments/assets/b8ce7ea5-ea3b-49e5-b650-84bf75c2c695)
-![dashboard](https://github.com/user-attachments/assets/37b75dea-0c80-4ee3-8399-ec161e6d91cb)
+
 🚀 SOLO_HUNTER v1.0.3
 
 SOLO_HUNTER is a DigiByte wallet display built for ESP32 CYD / NerdMiner-style devices.
