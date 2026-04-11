@@ -1,3 +1,5 @@
+![Dollar new](https://github.com/user-attachments/assets/d1a9f354-f179-4ac9-a44f-58c248b1757a)
+![dashboard](https://github.com/user-attachments/assets/6368fadb-fea2-440d-beba-9307bf91f8e1)
 ![SOLO GBP 1](https://github.com/user-attachments/assets/6e5b8d1c-57ed-449d-8617-ec5b694b2a79)
 ![SOLO CAD 1](https://github.com/user-attachments/assets/b8ce7ea5-ea3b-49e5-b650-84bf75c2c695)
 
